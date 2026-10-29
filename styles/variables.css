@@ -1,4 +1,18 @@
-/*
-  Переменные для вашего проекта
-  и их переопределение под различные устройства
-*/
+:root {
+  /* независящие от темы сайта */
+  --font-family: 'IBM Plex Mono', monospace;
+  --font-size: 18px;
+  --line-height: 1.3;
+
+  /* по дефолту идёт тёмная, стили для неё */
+  --cover-image: url("../images/cover-image-dark.png");
+  --bg-color: #000028;
+  --text-color: #F1B2CE;
+  --accent-color: #ff0070;
+  --accent-text-color: var(--accent-color);
+  /* 66 = 40% прозрачности */
+  --accent-muted-color: #FF007066;
+  --title-color: #DB00FF;
+  --on-accent-color: #000028;
+  --footer-color: var(--title-color);
+}

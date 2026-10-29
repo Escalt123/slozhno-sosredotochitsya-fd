@@ -201,7 +201,7 @@
   font-size: var(--font-size);
 }
 
-.subsection__title  {
+.subsection__title {
   margin-top: 20px;
   margin-bottom: 10px;
 
@@ -218,7 +218,7 @@
 
 .subsection__link {
   text-decoration: none;
-  text-shadow: 2.5px 2px 0 var(--accent-color); 
+  text-shadow: 2.5px 2px 0 var(--accent-color);
 }
 
 .subsection__link:focus-visible {
@@ -275,7 +275,7 @@
   font-weight: 700;
 
   font-size: 116px;
-  text-shadow: 2px 2px 0 var(--accent-color); 
+  text-shadow: 2px 2px 0 var(--accent-color);
 }
 
 /* ============ */

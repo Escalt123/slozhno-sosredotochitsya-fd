@@ -234,11 +234,11 @@
 }
 
 .subsection__link:hover {
-  border-bottom-color: var(--accent-text-color);
+  border-bottom-color: var(--text-color);
 }
 
 .subsection__link:focus-visible {
-  outline: 1px solid var(--accent-text-color);
+  outline: 1px solid var(--text-color);
 }
 
 .subsection__title_type_tip {
